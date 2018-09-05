@@ -4,9 +4,9 @@ Imports Domino
 Public Class UserDataAccess
     Inherits ConectividadBaseDeDatos
 
-    Public Function login(usuario As Usuario) As Usuario
+    Public Function login(usuario As User) As User
 
-        Dim retorno As New Usuario
+        Dim retorno As New User
 
 
         cn = CrearConexion()
@@ -36,7 +36,7 @@ Public Class UserDataAccess
 
 
     End Function
-    Public Function ingresar(usuario As Usuario) As Usuario
+    Public Function insert(usuario As User) As User
 
 
 
@@ -74,4 +74,5 @@ Public Class UserDataAccess
         End Try
         Return retorno
     End Function
+
 End Class

@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConectividadBaseDeDatos.vb" />
+    <Compile Include="ProductDataAccess.vb" />
     <Compile Include="UserDataAccess.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -103,7 +104,6 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="ODBC.dsn" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domino\Domino.vbproj">

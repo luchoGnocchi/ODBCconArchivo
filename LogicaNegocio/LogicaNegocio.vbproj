@@ -63,6 +63,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ProductService.vb" />
     <Compile Include="TicketService.vb" />
     <Compile Include="UserService.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />

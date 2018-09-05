@@ -7,8 +7,8 @@ Public Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         'eventos del boton
-        Dim usuarioAEnviar As Usuario = ObtenerUsuarioDelFormularioLogin()
-        Dim usuarioALogear As Usuario = _userService.login(usuarioAEnviar)
+        Dim usuarioAEnviar As User = ObtenerUsuarioDelFormularioLogin()
+        Dim usuarioALogear As User = _userService.login(usuarioAEnviar)
         Dim ventanaPrincipal As New Form2
         If (usuarioALogear.rol.Equals("Admin")) Then
             ventanaPrincipal = AplicandoRolAdmin(ventanaPrincipal)
@@ -24,10 +24,10 @@ Public Class Form1
         Return ventanaPrincipal
     End Function
 
-    Private Function ObtenerUsuarioDelFormularioLogin() As Usuario
+    Private Function ObtenerUsuarioDelFormularioLogin() As User
         Dim user As String = TextBox1.Text
         Dim password As String = TextBox2.Text
-        Dim usuarioAEnviar As New Usuario
+        Dim usuarioAEnviar As New User
         usuarioAEnviar.nombre = user
         usuarioAEnviar.password = password
         Return usuarioAEnviar

@@ -8,3 +8,13 @@ C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\EjemploSimpleDeCapaz-mas
 C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.xml
 C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.pdb
 C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.vbprojAssemblyReference.cache
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\bin\Debug\Domino.dll
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\bin\Debug\Domino.pdb
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\bin\Debug\Domino.xml
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.vbprojAssemblyReference.cache
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.Resources.resources
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.vbproj.GenerateResource.cache
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.vbproj.CoreCompileInputs.cache
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.dll
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.xml
+C:\Users\lgnocchi\Downloads\EjemploSimpleDeCapaz-master\xxx\EjemploSimpleDeCapaz-master\Domino\obj\Debug\Domino.pdb

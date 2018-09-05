@@ -3,13 +3,13 @@ Imports Domino
 
 Public Class UserService
     Dim _userDataAccess As New UserDataAccess()
-    Public Function login(usuario As Usuario) As Usuario
+    Public Function login(usuario As User) As User
         Return _userDataAccess.login(usuario)
 
     End Function
-    Public Function ingresar(usuario As Usuario) As Usuario
+    Public Function ingresar(usuario As User) As User
         'agregar logica de negocio
-        Return _userDataAccess.ingresar(usuario)
+        Return _userDataAccess.insert(usuario)
     End Function
     Public Function getall() As DataTable
         Try
